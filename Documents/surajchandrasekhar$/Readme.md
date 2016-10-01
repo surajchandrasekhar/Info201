@@ -1,5 +1,6 @@
 ##Sheldon Cooper
 ![Sheldon] (imgs/sheldon.jpg)
+
 Sheldon Cooper is the lead character in the Emmy Award winning show, *The Big Bang Theory*. Here are some great things about him.
 
 - Very intelligent
